@@ -1,0 +1,2 @@
+# slp
+suckless env
